@@ -19,7 +19,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-<h2>Lifecycle Stages</h2>Karen is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking.
+ </h2>Karen is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking.
 
 
 
